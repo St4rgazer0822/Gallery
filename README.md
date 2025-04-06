@@ -16,4 +16,4 @@
   - Save image to local
   - Remember to modify the suffix (remove \_orig)
   - If tweet edited use the website down below
-- Tweet Download: https://typefully.com/tools/twitter-image-downloader
+- Tweet Download: https://tweethunter.io/tweetpik
